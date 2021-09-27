@@ -16,6 +16,6 @@ if __name__ == '__main__':
     print_hi('Homer J Simpson')
     print('Stop eating doughnuts they are bad for you')
     print('Lisa its your birthday')
-    print(multiply_two(3, 4))
+    print(multiply_two(3, 40))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
