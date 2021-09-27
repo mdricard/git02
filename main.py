@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Homer J Simpson')
     print('Stop eating doughnuts they are bad for you')
+    print('Lisa its your birthday')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
